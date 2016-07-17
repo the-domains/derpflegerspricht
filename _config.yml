@@ -1,6 +1,6 @@
 name: derpflegerspricht
 favicon: null
-layout_spectrum: 0.02794524095952511
+layout_spectrum: 0.24611
 typography_spectrum: 0.7926160548813641
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#181b0e'
+    - '#435e2b'
+    - '#739a27'
+    - '#cacacf'
+    - '#008797'
   brandStrength: 0.6314600778277963
   lightness: 0.34211031370796263
   saturation: 0.2737065034452826
