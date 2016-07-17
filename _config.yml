@@ -1,29 +1,41 @@
-name: derpflegerspricht
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.39149
 title: 'Es ist nicht wichtig was Du sagst, sondern wie'
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: derpflegerspricht
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.6314600778277963
+  saturation: 0.2737065034452826
   brandColors:
     - '#c7c7c7'
     - '#dc2829'
     - '#777777'
     - '#f2f2f2'
     - '#383838'
-  brandStrength: 0.6314600778277963
-  lightness: 0.34211031370796263
-  saturation: 0.2737065034452826
+  lightness: 0.3421103137079626
   rhythmicContrast: 0.8492272337898612
-purpose: []
+typography_spectrum: 0.312766
