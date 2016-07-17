@@ -1,0 +1,28 @@
+name: derpflegerspricht
+favicon: null
+layout_spectrum: 0.02794524095952511
+typography_spectrum: 0.7926160548813641
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6314600778277963
+  lightness: 0.34211031370796263
+  saturation: 0.2737065034452826
+  rhythmicContrast: 0.8492272337898612
+purpose: []
