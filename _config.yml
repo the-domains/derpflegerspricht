@@ -1,20 +1,8 @@
-title: 'Es ist nicht wichtig was Du sagst, sondern wie'
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0
-favicon: null
 name: derpflegerspricht
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.312766
+title: 'Es ist nicht wichtig was Du sagst, sondern wie'
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6314600778277963
-  saturation: 0.2737065034452826
   brandColors:
     - '#c7c7c7'
     - '#dc2829'
     - '#777777'
     - '#f2f2f2'
     - '#383838'
-  lightness: 0.3421103137079626
-  rhythmicContrast: 0.8492272337898612
-typography_spectrum: 0.312766
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 0.2737065034452826
+  rhythmicContrast: 0
+purpose: []
