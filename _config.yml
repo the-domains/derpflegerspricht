@@ -1,8 +1,34 @@
-name: derpflegerspricht
-favicon: null
-layout_spectrum: 0.4808511
 typography_spectrum: 0.312766
-title: 'Es ist nicht wichtig was Du sagst, sondern wie'
+color:
+  brandColors:
+    - '#c7c7c7'
+    - '#dc2829'
+    - '#777777'
+    - '#f2f2f2'
+    - '#383838'
+  brandStrength: 0.375
+  lightness: 0.6875
+  saturation: 0.875
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4808511
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: derpflegerspricht
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Me
+    id: b13b55b5-7fc4-47e2-a1ce-2260c0273455
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#c7c7c7'
-    - '#dc2829'
-    - '#777777'
-    - '#f2f2f2'
-    - '#383838'
-  brandStrength: 0.375
-  lightness: 0.6875
-  saturation: 0.875
-  rhythmicContrast: 0.5
+title: 'Es ist nicht wichtig was Du sagst, sondern wie'
 purpose: []
